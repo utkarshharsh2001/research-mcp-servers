@@ -1,0 +1,9 @@
+Term: Agentic AI
+
+Paper 1: Trustworthy AI in the Agentic Lakehouse: from Concurrency to Governance (arXiv:2511.16402)
+Summary: The paper addresses trustworthiness of AI agents operating on production data. It argues that traditional lakehouses are ill-suited for agent access patterns and proposes an agent-first design called Bauplan, which reimplements data and compute isolation similar to MVCC but adapted to a decoupled, multi-language setting. A reference implementation demonstrates a self‑healing pipeline that couples agent reasoning with guarantees of correctness and governance.
+
+Paper 2: Foundations of GenIR (arXiv:2501.02842)
+Summary: While not explicitly about agents, this chapter discusses generative AI’s impact on information access systems. It introduces concepts of information generation and synthesis, highlighting how generative models can produce tailored content and integrate existing knowledge to mitigate hallucinations. The work situates these capabilities within retrieval‑augmented generation paradigms and outlines challenges for future research.
+
+Overall: Both papers touch on agentic AI in different contexts—one focuses on infrastructure and governance for autonomous agents, the other explores generative models as a component of agent-driven information access.

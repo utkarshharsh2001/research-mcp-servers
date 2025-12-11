@@ -1,0 +1,50 @@
+{
+  "1707.04938v1": {
+    "title": "Fixed mesh refinement in the characteristic formulation of General Relativity",
+    "authors": [
+      "W. Barreto",
+      "H. P. de Oliveira",
+      "B. Rodriguez-Mueller"
+    ],
+    "summary": "We implement a spatially fixed mesh refinement under spherical symmetry for the characteristic formulation of General Relativity. The Courant-Friedrich-Levy (CFL) condition lets us deploy an adaptive resolution in (retarded-like) time, even for the nonlinear regime. As test cases, we replicate the main features of the gravitational critical behavior and the spacetime structure at null infinity using the Bondi mass and the News function. Additionally, we obtain the global energy conservation for an extreme situation, i.e. in the threshold of the black hole formation. In principle, the calibrated code can be used in conjunction with an ADM 3+1 code to confirm the critical behavior recently reported in the gravitational collapse of a massless scalar field in an asymptotic anti-de Sitter spacetime. For the scenarios studied, the fixed mesh refinement offers improved runtime and results comparable to code without mesh refinement.",
+    "pdf_url": "https://arxiv.org/pdf/1707.04938v1",
+    "published": "2017-07-16"
+  },
+  "1209.5042v3": {
+    "title": "The Canonical Lagrangian Approach To Three-Space General Relativity",
+    "authors": [
+      "Vasudev Shyam",
+      "Madhavan Venkatesh"
+    ],
+    "summary": "We study the action for the three-space formalism of General Relativity, better known as the BF\u00d3 (Barbour--Foster--\u00d3 Murchadha) action, which is a square-root BSW (Baierlein--Sharp--Wheeler) action. In particular, we explore the (pre)symplectic structure by pulling it back via a Legendre map to the tangent bundle of the configuration space of this action. With it we attain the canonical Lagrangian vector field which generates the gauge transformations (3-diffeomorphisms) and the true physical evolution of the system. This vector field encapsulates all the dynamics of the system. We also discuss briefly the observables and perennials for this theory. We then present a symplectic reduction of the constrained phase space.",
+    "pdf_url": "https://arxiv.org/pdf/1209.5042v3",
+    "published": "2012-09-23"
+  },
+  "gr-qc/0405132v2": {
+    "title": "The Dynamic Space of General Relativity in Second Atomization",
+    "authors": [
+      "Lukas A. Saul"
+    ],
+    "summary": "The notion that the geometry of our space-time is not only a static background but can be physically dynamic is well established in general relativity. Geometry can be described as shaped by the presence of matter, where such shaping manifests itself as gravitational force. We consider here probabilistic or atomistic models of such space-time, in which the active geometry emerges from a statistical distribution of 'atoms'. Such atoms are not to be confused with their chemical counterparts, however the shift of perspective obtained in analyzing a gas via its molecules rather than its bulk properties is analogous to this \"second atomization\". In this atomization, space-time itself (i.e. the meter and the second) is effectively atomized, so the atoms themselves must exist in a 'subspace'.\n  Here we build a simple model of such a space-time from the ground up, establishing a route for more complete theories, and enabling a review of recent work. We first introduce the motivation behind statistical interpretations and atomism, and look at applications to the realm of dynamic space-time theories. We then consider models of kinetic media in subspace compatible with our understanding of light. From the equations governing the propagation of light in subspace we can build a metric geometry, describing the dynamic and physical space-time of general relativity. Finally, implications of the theory on current frontiers of general relativity including cosmology, black holes, and quantum gravity are discussed.",
+    "pdf_url": "https://arxiv.org/pdf/gr-qc/0405132v2",
+    "published": "2004-05-26"
+  },
+  "1403.7377v1": {
+    "title": "The Confrontation between General Relativity and Experiment",
+    "authors": [
+      "Clifford M. Will"
+    ],
+    "summary": "The status of experimental tests of general relativity and of theoretical frameworks for analyzing them are reviewed and updated. Einstein's equivalence principle (EEP) is well supported by experiments such as the Eotvos experiment, tests of local Lorentz invariance and clock experiments. Ongoing tests of EEP and of the inverse square law are searching for new interactions arising from unification or quantum gravity. Tests of general relativity at the post-Newtonian level have reached high precision, including the light deflection, the Shapiro time delay, the perihelion advance of Mercury, the Nordtvedt effect in lunar motion, and frame-dragging. Gravitational-wave damping has been detected in an amount that agrees with general relativity to better than half a percent using the Hulse-Taylor binary pulsar, and a growing family of other binary pulsar systems is yielding new tests, especially of strong-field effects. Current and future tests of relativity will center on strong gravity and gravitational waves.",
+    "pdf_url": "https://arxiv.org/pdf/1403.7377v1",
+    "published": "2014-03-28"
+  },
+  "0807.3706v1": {
+    "title": "Book Review: The Genesis of General Relativity",
+    "authors": [
+      "Donald Salisbury"
+    ],
+    "summary": "This is a review of the four-volume set entitled The Genesis of General Relativity edited by Juergen Renn, Springer, Dordrecht (2007)",
+    "pdf_url": "https://arxiv.org/pdf/0807.3706v1",
+    "published": "2008-07-23"
+  }
+}
